@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mira_bd", "mira_bd.csproj", "{8CC68D50-A843-4CF9-815B-D34FC43599D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC68D50-A843-4CF9-815B-D34FC43599D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC68D50-A843-4CF9-815B-D34FC43599D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC68D50-A843-4CF9-815B-D34FC43599D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC68D50-A843-4CF9-815B-D34FC43599D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1F11990-B8B6-4661-BB4C-1D23090A65B1}
+	EndGlobalSection
+EndGlobal
