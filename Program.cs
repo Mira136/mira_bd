@@ -11,6 +11,7 @@ namespace mira_bd
         static void Main(string[] args)
         {
             Console.WriteLine("Hello! I am mira");
+             Console.WriteLine("I am from rajkot");
             Console.Read();
         }
     }
