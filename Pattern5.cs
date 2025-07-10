@@ -8,7 +8,7 @@ namespace mira_bd
         {
             int a = 5;
             int b = 5;
-            int res = a++ + b++ + b++ + a++;
+            int res = ++a + b++ + b++ + a++ + ++a + ++b + a++;
            // res = a;
            // a = a + 1;
 
