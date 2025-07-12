@@ -6,16 +6,17 @@ namespace mira_bd
     {
         static void Main(string[] args)
         {
-            for (int i = 1; i <= 5; i++)
-            {
-                Console.WriteLine();
+            int num = 1;
 
+            for (int i = 1; i <= 4; i++)
+            {
                 for (int j = 1; j <= i; j++)
                 {
-                    Console.Write(" * ");
+                    Console.Write(num + " ");
+                    num++;
                 }
+                Console.WriteLine();
             }
-            Console.Read();
         }
     }
 }
