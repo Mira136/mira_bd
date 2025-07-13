@@ -6,14 +6,16 @@ namespace mira_bd
     {
         public static void Main(string[] args)
         {
-            int[] a = { "a", "b", "c", "d", "e" };
+            int[] num = { 10 , 20 , 30 , 40 , 50 };
 
-            for (int i = 0; i < a.Length; i++)
+            Console.WriteLine("Array elements:");
+
+            for (int i = 0; i < num.Length; i++)
             {
-                Console.WriteLine(a[i]);
+                Console.WriteLine(num[i]);
             }
 
-            /*foreach (string i in a)
+           /*foreach (int i in num)
             {
                 Console.WriteLine(i);
             }*/
